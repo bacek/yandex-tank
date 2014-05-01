@@ -1,4 +1,5 @@
-#! /usr/bin/python
+#! /usr/bin/env python2
+from Tank.ConsoleWorker import ConsoleTank, CompletionHelperOptionParser
 from optparse import OptionParser
 import logging
 import os
